@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/aca56fbd-c3ca-46f6-b051-6d3332b20ce8/resourceGroups/dogs/providers/Microsoft.Web/sites/dog-webapp",
+    "appService.deploySubpath": "."
+}
